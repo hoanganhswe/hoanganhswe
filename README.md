@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Hoang Anh</h1>
 <h3 align="center">I am a student of information technology faculty of Saigon university.</h3>
 
-<img align="right" alt="Coding" width="450" height = "350" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
+<img align="right" alt="Coding" width="450" height = "350" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 # 💫 About Me:
 <br>🔭 I’m currently working on building personal projects to sharpen my backend skills.<br><br>🌱 I’m currently learning JavaScript, Node.js, and React.<br><br>👯 I’m looking to collaborate on beginner-friendly backend or full-stack projects.<br><br>🤝 I’m looking for help with best practices in backend development and API design.<br><br>💬 Ask me about anything related to JavaScript or my learning journey as a future backend engineer.<br><br>⚡ Fun fact: I love turning caffeine into clean, readable code ☕
 

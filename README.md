@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-<!--
-**hoanganhswe/hoanganhswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Nguyen Hoang Anh</h1>
+<h3 align="center">I am a student of information technology faculty of Saigon university.</h3>
 
-Here are some ideas to get you started:
+<img align="right" alt="Coding" width="500" height = "400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
+# 💫 About Me:
+<br>🔭 I’m currently working on building personal projects to sharpen my backend skills.<br><br>🌱 I’m currently learning JavaScript, Node.js, and React.<br><br>👯 I’m looking to collaborate on beginner-friendly backend or full-stack projects.<br><br>🤝 I’m looking for help with best practices in backend development and API design.<br><br>💬 Ask me about anything related to JavaScript or my learning journey as a future backend engineer.<br><br>⚡ Fun fact: I love turning caffeine into clean, readable code ☕
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/hoang.anh.182242) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nhgawh/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hanh05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nha261105@gmail.com) 
+
+# 💻 Language and tools:
+[![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,js,express,maven,mysql,nodejs,react,sass,ubuntu,vscode,figma,linux,git,idea,sublime&perline=15)](https://skillicons.dev)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Hanh2611&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Hanh2611&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanh2611&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Hanh2611&icon=1&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

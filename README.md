@@ -16,11 +16,10 @@
 [![My Skills](https://skillicons.dev/icons?i=cpp,java,html,css,js,express,maven,mysql,nodejs,react,sass,ubuntu,vscode,figma,linux,git,idea,sublime,notion&perline=15)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hanh2611&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hanh2611&theme=react&hide_border=false)<br/>
-
+![](https://github-readme-stats.vercel.app/api?username=hoanganhswe&theme=react&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=hoanganhswe&theme=react&hide_border=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hanh2611&icon=1&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=hoanganhswe&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
